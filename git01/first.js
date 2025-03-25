@@ -6,8 +6,10 @@ console.log(login);
 
 const footer = "footer added in your website";
 console.log(footer);
-const Payment = "ntregrated the payment gateway";
+const Payment = "intregrated the payment gateway";
 console.log(Payment);
 
-const upi = "ntregrated upi also";
+// i am fixing Bug
+const upi = "intregrated upi also";
 console.log(upi);
+console.log("Fixed");
